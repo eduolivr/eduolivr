@@ -14,7 +14,7 @@
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Edu-yoda" height="200" width="200" src="https://cdn.discordapp.com/attachments/821424098542223411/876265369856249896/ezgif.com-gif-maker.gif">
+  <img align="right" alt="Edu-yoda" height="200" width="200" src="https://i.picasion.com/pic91/405b3552d0652acdb2a77b15eab796a9.gif">
 </div>
   
   ##
@@ -25,5 +25,3 @@
   <a href="https://www.youtube.com/channel/UCZu1MPrSOiX0iDQOdoORUzg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduoliverdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/vB4enSWqdy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
-  
