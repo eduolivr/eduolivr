@@ -14,7 +14,7 @@
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Edu-yoda" height="200" width="200" src="https://cdn.discordapp.com/attachments/821424098542223411/876265369856249896/ezgif.com-gif-maker.gif">
+  <img align="right" alt="Edu-yoda" height="200" width="200" src="https://i.picasion.com/pic91/561b516b42354efdfc8654aebecb308e.gif">
 </div>
   
   ##
