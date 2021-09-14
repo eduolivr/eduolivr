@@ -4,7 +4,7 @@
 
  - 👨‍💻 Designer e Desenvolvedor
   - 🚀 Atualmente trabalhando na Agência Creativar (@agenciacreativar)
-  - 📝 Estudando Python 
+  - 📝 Estudando Back-End
    - 📧 E-mail: edu.oliver@creativar.com.br
 </div>
 
