@@ -2,7 +2,7 @@
 <div>
  <img align="right" alt="Edu-yoda" height="100" width="100" src="https://i.picasion.com/pic91/561b516b42354efdfc8654aebecb308e.gif">
 
- - 👨‍💻 Designer e Desenvolvedor
+ - 👨‍💻 Designer e Desenvolvedor Front-End
   - 🚀 Atualmente trabalhando na Agência Creativar (@agenciacreativar)
   - 📝 Estudando Back-End
    - 📧 E-mail: edu.oliver@creativar.com.br
@@ -17,8 +17,6 @@
 <h2> Linguagens de Programação </h2>
   <img align="center" alt="Edu-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edu-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <div>
 <h2> Mídias Sociais </h2>
   <a href="https://instagram.com/eduoliver.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
