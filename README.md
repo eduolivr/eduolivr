@@ -3,9 +3,9 @@
  <img align="right" alt="Edu-yoda" height="100" width="100" src="https://i.picasion.com/pic91/561b516b42354efdfc8654aebecb308e.gif">
 
  - 👨‍💻 Designer e Desenvolvedor Front-End
-  - 🚀 Atualmente trabalhando na Agência Creativar (@agenciacreativar)
-  - 📝 Estudando Back-End
-   - 📧 E-mail: edu.oliver@creativar.com.br
+ - 🚀 Atualmente trabalhando na Agência Creativar (@agenciacreativar)
+ - 📝 Estudando Back-End
+ - 📧 E-mail: edu.oliver@creativar.com.br
 </div>
 
 <div>
