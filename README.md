@@ -7,7 +7,6 @@
  - 📝 Estudando Back-End
  - 📧 E-mail: edu.oliver@creativar.com.br
 </div>
-
 <div>
   <a href="https://github.com/eduoliverdev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduoliverdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
