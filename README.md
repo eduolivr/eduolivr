@@ -5,7 +5,7 @@
  - 👨‍💻 Designer e Desenvolvedor Front-End
  - 🚀 Atualmente trabalhando na Agência Creativar (@agenciacreativar)
  - 📝 Estudando Back-End
- - 📧 E-mail: edu.oliver@creativar.com.br
+ - 📧 E-mail: eseron@protonmail.com
 </div>
 <div>
   <a href="https://github.com/eduoliverdev">
@@ -19,7 +19,7 @@
 <div>
 <h2> Mídias Sociais </h2>
   <a href="https://instagram.com/eduoliver.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:edu.oliver@creativar.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eseron@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCZu1MPrSOiX0iDQOdoORUzg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduoliverdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
