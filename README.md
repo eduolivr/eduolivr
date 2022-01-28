@@ -9,8 +9,8 @@
 </div>
 <div>
   <a href="https://github.com/eduoliverdev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduoliverdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduoliverdev&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduolivr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduolivr&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
 <div style="display: inline_block"><br>
 <h2> Linguagens de Programação </h2>
