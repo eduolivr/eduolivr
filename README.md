@@ -1,6 +1,6 @@
 ### Olá! Sou Eduardo Oliveira e seja muito bem-vinda(o) ao meu perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 <div>
- <img align="right" alt="Edu-yoda" height="50" width="50" src="https://i.picasion.com/pic91/561b516b42354efdfc8654aebecb308e.gif">
+ <img align="right" alt="Edu-yoda" height="100" width="100" src="https://i.picasion.com/pic91/561b516b42354efdfc8654aebecb308e.gif">
 
  - 👨‍💻 Designer e Desenvolvedor Front-End
  - 🚀 Atualmente trabalhando na Agência Creativar (@agenciacreativar)
