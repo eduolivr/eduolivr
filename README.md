@@ -1,4 +1,4 @@
-### Olá! Sou Eduardo Oliveira e seja muito bem-vinda(o) ao meu perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px">
+### Olá! Sou Eduardo Oliveira e seja muito bem-vinda(o) ao meu perfil 
 <div>
  <img align="right" alt="Edu-yoda" height="200" width="200" src="https://i.picasion.com/pic91/561b516b42354efdfc8654aebecb308e.gif">
 
