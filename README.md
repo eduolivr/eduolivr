@@ -5,7 +5,7 @@
  - 👨‍💻 Designer e Desenvolvedor Front-End
  - 🚀 Atualmente trabalhando na Agência Creativar (@agenciacreativar)
  - 📝 Estudando Back-End
- - 📧 E-mail: dev@creativar.com.br
+ - 📧 E-mail: marketing@creativar.com.br
 </div>
 <div>
   <a href="https://github.com/eduoliverdev">
