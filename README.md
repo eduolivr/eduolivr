@@ -1,4 +1,4 @@
-### Olá! Sou Eduardo Oliveira e seja muito bem-vinda(o) ao meu perfil 
+### Olá! Sou Eduardo Oliver e seja muito bem-vinda(o) ao meu perfil 
 <div>
 
  - 👨‍💻 Designer e Desenvolvedor Front-End
