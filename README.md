@@ -1,21 +1,24 @@
-### Olá! Sou Eduardo Oliver e seja muito bem-vinda(o) ao meu perfil 
-<div>
+# Hi there! 👋  
 
- - 👨‍💻 Designer e Desenvolvedor Front-End
- - 🚀 Agência Creativar (@agenciacreativar)
-</div>
-<div>
-  <a href="https://github.com/eduoliverdev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduolivr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduolivr&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
-</div>
-<div style="display: inline_block"><br>
-<h2> Linguagens de Programação </h2>
-  <img align="center" alt="Edu-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height=50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<div>
-<h2> Mídias Sociais </h2>
-  <a href="https://www.instagram.com/edu_olivrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:edu.oliver@agenciacreativar.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+I'm **Eduardo Oliver**, a passionate **Designer** and **Front-End Developer**.  
+I love crafting beautiful, functional, and user-friendly digital experiences that make a difference.  
 
-  
+When I’m not coding, you’ll find me:  
+🎨 Exploring creative design ideas.  
+💻 Learning new web technologies.  
+🎮 Gaming or getting inspired by digital art.  
+
+## Fun Facts:  
+- ☕ I’m a coffee enthusiast (latte art lover!).  
+- 🎧 I enjoy coding while vibing to lo-fi beats.  
+- 🌎 I’m always up for connecting with creative minds around the globe!  
+
+## Technologies I Love Working With:  
+- 🌐 HTML5, CSS3, JavaScript (ES6+)
+- ✅ Adobe Photoshop, DaVinci Resolve, After Effects, Premiere Pro 
+- 🎨 Figma, Adobe XD, and Sketch  
+
+## Let’s Connect!  
+[💼 Portfolio Website](#www.suro.com.br)  
+[💌 Email](mailto:#edu.oliver@suro.com.br)  
+[🔗 LinkedIn](#https://www.linkedin.com/in/eduolivr/)  
