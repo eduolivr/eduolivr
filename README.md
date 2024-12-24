@@ -15,7 +15,6 @@ I'm **Eduardo Oliver**, a passionate **Designer** and **Front-End Developer**.
 ### 🎯 **What I’m Skilled At**  
 #### 👨‍💻 **Development**  
 - 🌐 HTML5, CSS3, JavaScript (ES6+)  
-- ⚛️ React.js & Next.js  
 
 #### 🎨 **Design Tools**  
 - ✅ Adobe Photoshop, DaVinci Resolve, After Effects, Premiere Pro  
