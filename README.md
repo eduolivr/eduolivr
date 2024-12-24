@@ -1,24 +1,23 @@
 # Hi there! 👋  
 
 I'm **Eduardo Oliver**, a passionate **Designer** and **Front-End Developer**.  
-I love crafting beautiful, functional, and user-friendly digital experiences that make a difference.  
+🎨 I specialize in creating **beautiful**, **functional**, and **user-friendly** digital experiences that truly make a difference.  
 
-When I’m not coding, you’ll find me:  
-🎨 Exploring creative design ideas.  
-💻 Learning new web technologies.  
-🎮 Gaming or getting inspired by digital art.  
+---
 
-## Fun Facts:  
-- ☕ I’m a coffee enthusiast (latte art lover!).  
-- 🎧 I enjoy coding while vibing to lo-fi beats.  
-- 🌎 I’m always up for connecting with creative minds around the globe!  
+### 💡 **About Me**  
+- 🌱 Always learning new web technologies and design trends.  
+- 🎮 Gamer at heart, inspired by digital art and storytelling.  
+- 💻 On a mission to blend **design** and **code** into seamless creations.  
 
-## Technologies I Love Working With:  
-- 🌐 HTML5, CSS3, JavaScript (ES6+)
-- ✅ Adobe Photoshop, DaVinci Resolve, After Effects, Premiere Pro 
-- 🎨 Figma, Adobe XD, and Sketch  
+---
 
-## Let’s Connect!  
-[💼 Portfolio Website](https://www.suro.com.br)  
-[💌 Email](mailto:edu.oliver@suro.com.br)  
-[🔗 LinkedIn](https://www.linkedin.com/in/eduolivr/) 
+### 🎯 **What I’m Skilled At**  
+#### 👨‍💻 **Development**  
+- 🌐 HTML5, CSS3, JavaScript (ES6+)  
+- ⚛️ React.js & Next.js  
+
+#### 🎨 **Design Tools**  
+- ✅ Adobe Photoshop, DaVinci Resolve, After Effects, Premiere Pro  
+-
+
