@@ -19,6 +19,6 @@ When I’m not coding, you’ll find me:
 - 🎨 Figma, Adobe XD, and Sketch  
 
 ## Let’s Connect!  
-[💼 Portfolio Website](www.suro.com.br)  
-[💌 Email](mailto:#edu.oliver@suro.com.br)  
-[🔗 LinkedIn](www.linkedin.com/in/eduolivr/)  
+[💼 Portfolio Website](https://www.suro.com.br)  
+[💌 Email](mailto:edu.oliver@suro.com.br)  
+[🔗 LinkedIn](https://www.linkedin.com/in/eduolivr/) 
