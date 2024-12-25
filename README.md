@@ -34,14 +34,6 @@ I'm **Eduardo Oliver**, a passionate **Designer** and **Front-End Developer**.
 [💌 Email](mailto:edu.oliver@suro.com.br)  
 [🔗 LinkedIn](https://www.linkedin.com/in/eduolivr/)  
 
-<div id="lets-connect" style="text-align: center; margin-top: 20px;">
-  <h3>📫 Let’s Connect!</h3>
-  <a href="https://www.suro.com.br" style="display: inline-block; margin: 10px; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">💼 Portfolio</a>
-  <a href="mailto:edu.oliver@suro.com.br" style="display: inline-block; margin: 10px; padding: 10px 20px; background-color: #2196F3; color: white; text-decoration: none; border-radius: 5px;">💌 Email Me</a>
-  <a href="https://www.linkedin.com/in/eduolivr/" style="display: inline-block; margin: 10px; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">🔗 LinkedIn</a>
-</div>
-
-
 ---
 
 ### 🌟 **Quote I Live By**  
